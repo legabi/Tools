@@ -9,6 +9,6 @@ This repository is the list of tools I made to make my job easier
 
 ## List
 
-- [nginx-config](https://github.com/legabi/Tools/nginx/) | easy to add a server to your nginx
+- [nginx-config](https://github.com/legabi/Tools/tree/main/nginx) | easy to add a server to your nginx
 
     
