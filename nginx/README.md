@@ -18,7 +18,7 @@ ln -s PATH_TO_YOUR_FILE /usr/bin/nginx-config
 To use this tool please
 
 ```bash
-nginx-config <DOMAIN> <PATH_TO_THE_SITE_FOLDER>
+sudo nginx-config <DOMAIN> <PATH_TO_THE_SITE_FOLDER>
 ```
 
 Your site is up!
