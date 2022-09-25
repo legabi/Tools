@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # tu backup quel fichier ?
-backup_files="/backup.tgz /home /var/www /var/lib/pterodactyl/ /etc /root/alls-databases.sql"
+backup_files="/home /var/www /var/lib/pterodactyl/ /etc /root/alls-databases.sql"
 
 # Tu met la backup dans ?
 dest="/backup/"
