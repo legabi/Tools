@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # IP du proxmox
-PROXMOX_IP=88.151.197.29
+PROXMOX_IP=YOUR_PROXMOX_IP
 
 # si il y a 3 arguments
 if [ $# -eq 3 ]
