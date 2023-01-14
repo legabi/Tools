@@ -5,6 +5,9 @@ then
     path_to_file="/etc/nginx/sites-available/"$1".conf"
     path_to_enable="/etc/nginx/sites-enabled/"$1".conf"
     path_to_folder=$2
+    
+    mkdir -p $path_to_folder
+    
     eval certbot certonly -d $1
     echo 'server {
         listen 80;
